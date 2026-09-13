@@ -4,7 +4,7 @@
 
 ## Скачать на Android
 
-**Актуальная сборка:** [Praxis-v0.2.0.apk](https://github.com/beslan-spec/praxis/releases/download/v0.2.0/Praxis-v0.2.0.apk)
+**Актуальная сборка:** [Praxis-v0.3.0.apk](https://github.com/beslan-spec/praxis/releases/download/v0.3.0/Praxis-v0.3.0.apk)
 
 Старые версии не удаляются — все лежат в [Releases](https://github.com/beslan-spec/praxis/releases). Что изменилось: [CHANGELOG.md](CHANGELOG.md).
 
@@ -21,11 +21,12 @@
 
 | Версия | Дата | Файл |
 | --- | --- | --- |
+| 0.3.0 | 13.09.2026 | [Praxis-v0.3.0.apk](https://github.com/beslan-spec/praxis/releases/download/v0.3.0/Praxis-v0.3.0.apk) |
 | 0.2.0 | 13.09.2026 | [Praxis-v0.2.0.apk](https://github.com/beslan-spec/praxis/releases/download/v0.2.0/Praxis-v0.2.0.apk) |
 | 0.1.0 | 11.09.2026 | [Praxis-v0.1.0.apk](https://github.com/beslan-spec/praxis/releases/download/v0.1.0/Praxis-v0.1.0.apk) |
 
 ## Что внутри
 
-Очередь из восьми учебных кейсов плюс свои пациенты. Жалоба, осмотр, снимки, один рабочий диагноз, план, разбор. Прогресс и свои кейсы пишутся на устройство.
+Девять учебных кейсов, тренировка и экзамен, свои пациенты. Жалоба, осмотр, снимки, один рабочий диагноз, план, разбор. Прогресс пишется на устройство.
 
 Ночной фон — луна в шапке.
